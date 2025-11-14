@@ -1,6 +1,8 @@
 # Processor System Comparison
 A project comparing processor systems for the Computer Architecture class.
 
+<br/>
+
 ## contents
 #### Report
 This report includes the following:
